@@ -54,17 +54,23 @@ Join our community of developers creating universal apps.
 
 # Get started
 
-   ```bash
-   cd Quiz-app
-   ```
+1. Clone this project
 
-1. Install dependencies
+```bash
+https://github.com/Naridz/Quiz-app
+```
+2. Access
+
+```bash
+cd Quiz-app
+```
+3. Install dependencies
 
    ```bash
    npm install
    ```
 
-2. Start the app
+4. Start the app
 
    ```bash
    npm run web
