@@ -57,7 +57,7 @@ Join our community of developers creating universal apps.
 1. Clone this project
 
 ```bash
-https://github.com/Naridz/Quiz-app
+git clone https://github.com/Naridz/Quiz-app
 ```
 2. Access
 
