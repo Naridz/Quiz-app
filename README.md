@@ -65,14 +65,13 @@ https://github.com/Naridz/Quiz-app
 cd Quiz-app
 ```
 3. Install dependencies
-
-   ```bash
-   npm install
-   ```
+```bash
+npm install
+```
 
 4. Start the app
 
-   ```bash
-   npm run web
-   ```
+```bash
+npm run web
+```
 This will start the development server and automatically open the app in your default web browser.
