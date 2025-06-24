@@ -54,6 +54,10 @@ Join our community of developers creating universal apps.
 
 # Get started
 
+```bash
+cd Quiz-app
+```
+
 1. Install dependencies
 
    ```bash
